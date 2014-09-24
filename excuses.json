@@ -1,0 +1,465 @@
+{"excuse":"clock speed"}
+{"excuse":"solar flares"}
+{"excuse":"electromagnetic radiation from satellite debris"}
+{"excuse":"static from nylon underwear"}
+{"excuse":"static from plastic slide rules"}
+{"excuse":"global warming"}
+{"excuse":"poor power conditioning"}
+{"excuse":"static buildup"}
+{"excuse":"doppler effect"}
+{"excuse":"hardware stress fractures"}
+{"excuse":"magnetic interference from money/credit cards"}
+{"excuse":"dry joints on cable plug"}
+{"excuse":"we're waiting for [the phone company] to fix that line"}
+{"excuse":"sounds like a Windows problem, try calling Microsoft support"}
+{"excuse":"temporary routing anomaly"}
+{"excuse":"somebody was calculating pi on the server"}
+{"excuse":"fat electrons in the lines"}
+{"excuse":"excess surge protection"}
+{"excuse":"floating point processor overflow"}
+{"excuse":"divide-by-zero error"}
+{"excuse":"POSIX compliance problem"}
+{"excuse":"monitor resolution too high"}
+{"excuse":"improperly oriented keyboard"}
+{"excuse":"network packets travelling uphill (use a carrier pigeon)"}
+{"excuse":"Decreasing electron flux"}
+{"excuse":"first Saturday after first full moon in Winter"}
+{"excuse":"radiosity depletion"}
+{"excuse":"CPU radiator broken"}
+{"excuse":"It works the way the Wang did, what's the problem"}
+{"excuse":"positron router malfunction"}
+{"excuse":"cellular telephone interference"}
+{"excuse":"techtonic stress"}
+{"excuse":"piezo-electric interference"}
+{"excuse":"(l)user error"}
+{"excuse":"working as designed"}
+{"excuse":"dynamic software linking table corrupted"}
+{"excuse":"heavy gravity fluctuation, move computer to floor rapidly"}
+{"excuse":"secretary plugged hairdryer into UPS"}
+{"excuse":"terrorist activities"}
+{"excuse":"not enough memory, go get system upgrade"}
+{"excuse":"interrupt configuration error"}
+{"excuse":"spaghetti cable cause packet failure"}
+{"excuse":"boss forgot system password"}
+{"excuse":"bank holiday - system operating credits  not recharged"}
+{"excuse":"virus attack, luser responsible"}
+{"excuse":"waste water tank overflowed onto computer"}
+{"excuse":"Complete Transient Lockout"}
+{"excuse":"bad ether in the cables"}
+{"excuse":"Bogon emissions"}
+{"excuse":"Change in Earth's rotational speed"}
+{"excuse":"Cosmic ray particles crashed through the hard disk platter"}
+{"excuse":"Smell from unhygienic janitorial staff wrecked the tape heads"}
+{"excuse":"Little hamster in running wheel had coronary; waiting for replacement to be Fedexed from Wyoming"}
+{"excuse":"Evil dogs hypnotised the night shift"}
+{"excuse":"Plumber mistook routing panel for decorative wall fixture"}
+{"excuse":"Electricians made popcorn in the power supply"}
+{"excuse":"Groundskeepers stole the root password"}
+{"excuse":"high pressure system failure"}
+{"excuse":"failed trials, system needs redesigned"}
+{"excuse":"system has been recalled"}
+{"excuse":"not approved by the FCC"}
+{"excuse":"need to wrap system in aluminum foil to fix problem"}
+{"excuse":"not properly grounded, please bury computer"}
+{"excuse":"CPU needs recalibration"}
+{"excuse":"system needs to be rebooted"}
+{"excuse":"bit bucket overflow"}
+{"excuse":"descramble code needed from software company"}
+{"excuse":"only available on a need to know basis"}
+{"excuse":"knot in cables caused data stream to become twisted and kinked"}
+{"excuse":"nesting roaches shorted out the ether cable"}
+{"excuse":"The file system is full of it"}
+{"excuse":"Satan did it"}
+{"excuse":"Daemons did it"}
+{"excuse":"You're out of memory"}
+{"excuse":"There isn't any problem"}
+{"excuse":"Unoptimized hard drive"}
+{"excuse":"Typo in the code"}
+{"excuse":"Yes, yes, its called a design limitation"}
+{"excuse":"Look, buddy:  Windows 3.1 IS A General Protection Fault."}
+{"excuse":"That's a great computer you have there; have you considered how it would work as a BSD machine?"}
+{"excuse":"Please excuse me, I have to circuit an AC line through my head to get this database working."}
+{"excuse":"Yeah, yo mama dresses you funny and you need a mouse to delete files."}
+{"excuse":"Support staff hung over, send aspirin and come back LATER."}
+{"excuse":"Someone is standing on the ethernet cable, causing a kink in the cable"}
+{"excuse":"Windows 95 undocumented 'feature'"}
+{"excuse":"Runt packets"}
+{"excuse":"Password is too complex to decrypt"}
+{"excuse":"Boss' kid fucked up the machine"}
+{"excuse":"Electromagnetic energy loss"}
+{"excuse":"Budget cuts"}
+{"excuse":"Mouse chewed through power cable"}
+{"excuse":"Stale file handle (next time use Tupperware(tm)!)"}
+{"excuse":"Feature not yet implemented"}
+{"excuse":"Internet outage"}
+{"excuse":"Pentium FDIV bug"}
+{"excuse":"Vendor no longer supports the product"}
+{"excuse":"Small animal kamikaze attack on power supplies"}
+{"excuse":"The vendor put the bug there."}
+{"excuse":"SIMM crosstalk."}
+{"excuse":"IRQ dropout"}
+{"excuse":"Collapsed Backbone"}
+{"excuse":"Power company testing new voltage spike (creation) equipment"}
+{"excuse":"operators on strike due to broken coffee machine"}
+{"excuse":"backup tape overwritten with copy of system manager's favourite CD"}
+{"excuse":"UPS interrupted the server's power"}
+{"excuse":"The electrician didn't know what the yellow cable was so he yanked the ethernet out."}
+{"excuse":"The keyboard isn't plugged in"}
+{"excuse":"The air conditioning water supply pipe ruptured over the machine room"}
+{"excuse":"The electricity substation in the car park blew up."}
+{"excuse":"The rolling stones concert down the road caused a brown out"}
+{"excuse":"The salesman drove over the CPU board."}
+{"excuse":"The monitor is plugged into the serial port"}
+{"excuse":"Root nameservers are out of sync"}
+{"excuse":"electro-magnetic pulses from French above ground nuke testing."}
+{"excuse":"your keyboard's space bar is generating spurious keycodes."}
+{"excuse":"the real ttys became pseudo ttys and vice-versa."}
+{"excuse":"the printer thinks its a router."}
+{"excuse":"the router thinks its a printer."}
+{"excuse":"evil hackers from Serbia."}
+{"excuse":"we just switched to FDDI."}
+{"excuse":"halon system went off and killed the operators."}
+{"excuse":"because Bill Gates is a Jehovah's witness and so nothing can work on St. Swithin's day."}
+{"excuse":"user to computer ratio too high."}
+{"excuse":"user to computer ration too low."}
+{"excuse":"we just switched to Sprint."}
+{"excuse":"it has Intel Inside"}
+{"excuse":"Sticky bits on disk."}
+{"excuse":"Power Company having EMP problems with their reactor"}
+{"excuse":"The ring needs another token"}
+{"excuse":"new management"}
+{"excuse":"telnet: Unable to connect to remote host: Connection refused"}
+{"excuse":"SCSI Chain overterminated"}
+{"excuse":"It's not plugged in."}
+{"excuse":"because of network lag due to too many people playing deathmatch"}
+{"excuse":"You put the disk in upside down."}
+{"excuse":"Daemons loose in system."}
+{"excuse":"User was distributing pornography on server; system seized by FBI."}
+{"excuse":"BNC (brain not connected)"}
+{"excuse":"UBNC (user brain not connected)"}
+{"excuse":"LBNC (luser brain not connected)"}
+{"excuse":"disks spinning backwards - toggle the hemisphere jumper."}
+{"excuse":"new guy cross-connected phone lines with ac power bus."}
+{"excuse":"had to use hammer to free stuck disk drive heads."}
+{"excuse":"Too few computrons available."}
+{"excuse":"Flat tire on station wagon with tapes.  ('Never underestimate the bandwidth of a station wagon full of tapes hurling down the highway' Andrew S. Tannenbaum) "}
+{"excuse":"Communications satellite used by the military for star wars."}
+{"excuse":"Party-bug in the Aloha protocol."}
+{"excuse":"Insert coin for new game"}
+{"excuse":"Dew on the telephone lines."}
+{"excuse":"Arcserve crashed the server again."}
+{"excuse":"Some one needed the powerstrip, so they pulled the switch plug."}
+{"excuse":"My pony-tail hit the on/off switch on the power strip."}
+{"excuse":"Big to little endian conversion error"}
+{"excuse":"You can tune a file system, but you can't tune a fish (from most tunefs man pages)"}
+{"excuse":"Dumb terminal"}
+{"excuse":"Zombie processes haunting the computer"}
+{"excuse":"Incorrect time synchronization"}
+{"excuse":"Defunct processes"}
+{"excuse":"Stubborn processes"}
+{"excuse":"non-redundant fan failure "}
+{"excuse":"monitor VLF leakage"}
+{"excuse":"bugs in the RAID"}
+{"excuse":"no 'any' key on keyboard"}
+{"excuse":"root rot"}
+{"excuse":"Backbone Scoliosis"}
+{"excuse":"/pub/lunch"}
+{"excuse":"excessive collisions & not enough packet ambulances"}
+{"excuse":"le0: no carrier: transceiver cable problem?"}
+{"excuse":"broadcast packets on wrong frequency"}
+{"excuse":"popper unable to process jumbo kernel"}
+{"excuse":"NOTICE: alloc: /dev/null: filesystem full"}
+{"excuse":"pseudo-user on a pseudo-terminal"}
+{"excuse":"Recursive traversal of loopback mount points"}
+{"excuse":"Backbone adjustment"}
+{"excuse":"OS swapped to disk"}
+{"excuse":"vapors from evaporating sticky-note adhesives"}
+{"excuse":"sticktion"}
+{"excuse":"short leg on process table"}
+{"excuse":"multicasts on broken packets"}
+{"excuse":"ether leak"}
+{"excuse":"Atilla the Hub"}
+{"excuse":"endothermal recalibration"}
+{"excuse":"filesystem not big enough for Jumbo Kernel Patch"}
+{"excuse":"loop found in loop in redundant loopback"}
+{"excuse":"system consumed all the paper for paging"}
+{"excuse":"permission denied"}
+{"excuse":"Reformatting Page. Wait..."}
+{"excuse":"..disk or the processor is on fire."}
+{"excuse":"SCSI's too wide."}
+{"excuse":"Proprietary Information."}
+{"excuse":"Just type 'mv * /dev/null'."}
+{"excuse":"runaway cat on system."}
+{"excuse":"Did you pay the new Support Fee?"}
+{"excuse":"We only support a 1200 bps connection."}
+{"excuse":"We only support a 28000 bps connection."}
+{"excuse":"Me no internet, only janitor, me just wax floors."}
+{"excuse":"I'm sorry a pentium won't do, you need an SGI to connect with us."}
+{"excuse":"Post-it Note Sludge leaked into the monitor."}
+{"excuse":"the curls in your keyboard cord are losing electricity."}
+{"excuse":"The monitor needs another box of pixels."}
+{"excuse":"RPC_PMAP_FAILURE"}
+{"excuse":"kernel panic: write-only-memory (/dev/wom0) capacity exceeded."}
+{"excuse":"Write-only-memory subsystem too slow for this machine. Contact your local dealer."}
+{"excuse":"Just pick up the phone and give modem connect sounds. 'Well you said we should get more lines so we don't have voice lines.'"}
+{"excuse":"Quantum dynamics are affecting the transistors"}
+{"excuse":"Police are examining all internet packets in the search for a narco-net-trafficker"}
+{"excuse":"We are currently trying a new concept of using a live mouse.  Unfortunately, one has yet to survive being hooked up to the computer.....please bear with us."}
+{"excuse":"Your mail is being routed through Germany ... and they're censoring us."}
+{"excuse":"Only people with names beginning with 'A' are getting mail this week (a la Microsoft)"}
+{"excuse":"We didn't pay the Internet bill and it's been cut off."}
+{"excuse":"Lightning strikes."}
+{"excuse":"Of course it doesn't work. We've performed a software upgrade."}
+{"excuse":"Change your language to Finnish."}
+{"excuse":"Fluorescent lights are generating negative ions. If turning them off doesn't work, take them out and put tin foil on the ends."}
+{"excuse":"High nuclear activity in your area."}
+{"excuse":"What office are you in? Oh, that one.  Did you know that your building was built over the universities first nuclear research site? And wow, aren't you the lucky one, your office is right over where the core is buried!"}
+{"excuse":"The MGs ran out of gas."}
+{"excuse":"The UPS doesn't have a battery backup."}
+{"excuse":"Recursivity.  Call back if it happens again."}
+{"excuse":"Someone thought The Big Red Button was a light switch."}
+{"excuse":"The mainframe needs to rest.  It's getting old, you know."}
+{"excuse":"I'm not sure.  Try calling the Internet's head office -- it's in the book."}
+{"excuse":"The lines are all busy (busied out, that is -- why let them in to begin with?)."}
+{"excuse":"Jan  9 16:41:27 huber su: 'su root' succeeded for .... on /dev/pts/1"}
+{"excuse":"It's those computer people in X {city of world}.  They keep stuffing things up."}
+{"excuse":"A star wars satellite accidently blew up the WAN."}
+{"excuse":"Fatal error right in front of screen"}
+{"excuse":"That function is not currently supported, but Bill Gates assures us it will be featured in the next upgrade."}
+{"excuse":"wrong polarity of neutron flow"}
+{"excuse":"Lusers learning curve appears to be fractal"}
+{"excuse":"We had to turn off that service to comply with the CDA Bill."}
+{"excuse":"Ionization from the air-conditioning"}
+{"excuse":"TCP/IP UDP alarm threshold is set too low."}
+{"excuse":"Someone is broadcasting pygmy packets and the router doesn't know how to deal with them."}
+{"excuse":"The new frame relay network hasn't bedded down the software loop transmitter yet. "}
+{"excuse":"Fanout dropping voltage too much, try cutting some of those little traces"}
+{"excuse":"Plate voltage too low on demodulator tube"}
+{"excuse":"You did wha... oh _dear_...."}
+{"excuse":"CPU needs bearings repacked"}
+{"excuse":"Too many little pins on CPU confusing it, bend back and forth until 10-20% are neatly removed. Do _not_ leave metal bits visible!"}
+{"excuse":"_Rosin_ core solder? But..."}
+{"excuse":"Software uses US measurements, but the OS is in metric..."}
+{"excuse":"The computer fleetly, mouse and all."}
+{"excuse":"Your cat tried to eat the mouse."}
+{"excuse":"The Borg tried to assimilate your system. Resistance is futile."}
+{"excuse":"It must have been the lightning storm we had (yesterday) (last week) (last month)"}
+{"excuse":"Due to Federal Budget problems we have been forced to cut back on the number of users able to access the system at one time. (namely none allowed....)"}
+{"excuse":"Too much radiation coming from the soil."}
+{"excuse":"Unfortunately we have run out of bits/bytes/whatever. Don't worry, the next supply will be coming next week."}
+{"excuse":"Program load too heavy for processor to lift."}
+{"excuse":"Processes running slowly due to weak power supply"}
+{"excuse":"Our ISP is having {switching,routing,SMDS,frame relay} problems"}
+{"excuse":"We've run out of licenses"}
+{"excuse":"Interference from lunar radiation"}
+{"excuse":"Standing room only on the bus."}
+{"excuse":"You need to install an RTFM interface."}
+{"excuse":"That would be because the software doesn't work."}
+{"excuse":"That's easy to fix, but I can't be bothered."}
+{"excuse":"Someone's tie is caught in the printer, and if anything else gets printed, he'll be in it too."}
+{"excuse":"We're upgrading /dev/null"}
+{"excuse":"The Usenet news is out of date"}
+{"excuse":"Our POP server was kidnapped by a weasel."}
+{"excuse":"It's stuck in the Web."}
+{"excuse":"Your modem doesn't speak English."}
+{"excuse":"The mouse escaped."}
+{"excuse":"All of the packets are empty."}
+{"excuse":"The UPS is on strike."}
+{"excuse":"Neutrino overload on the nameserver"}
+{"excuse":"Melting hard drives"}
+{"excuse":"Someone has messed up the kernel pointers"}
+{"excuse":"The kernel license has expired"}
+{"excuse":"Netscape has crashed"}
+{"excuse":"The cord jumped over and hit the power switch."}
+{"excuse":"It was OK before you touched it."}
+{"excuse":"Bit rot"}
+{"excuse":"U.S. Postal Service"}
+{"excuse":"Your Flux Capacitor has gone bad."}
+{"excuse":"The Dilithium Crystals need to be rotated."}
+{"excuse":"The static electricity routing is acting up..."}
+{"excuse":"Traceroute says that there is a routing problem in the backbone.  It's not our problem."}
+{"excuse":"The co-locator cannot verify the frame-relay gateway to the ISDN server."}
+{"excuse":"High altitude condensation from U.S.A.F prototype aircraft has contaminated the primary subnet mask. Turn off your computer for 9 days to avoid damaging it."}
+{"excuse":"Lawn mower blade in your fan need sharpening"}
+{"excuse":"Electrons on a bender"}
+{"excuse":"Telecommunications is upgrading. "}
+{"excuse":"Telecommunications is downgrading."}
+{"excuse":"Telecommunications is downshifting."}
+{"excuse":"Hard drive sleeping. Let it wake up on it's own..."}
+{"excuse":"Interference between the keyboard and the chair."}
+{"excuse":"The CPU has shifted, and become decentralized."}
+{"excuse":"Due to the CDA, we no longer have a root account."}
+{"excuse":"We ran out of dial tone and we're and waiting for the phone company to deliver another bottle."}
+{"excuse":"You must've hit the wrong any key."}
+{"excuse":"PCMCIA slave driver"}
+{"excuse":"The Token fell out of the ring. Call us when you find it."}
+{"excuse":"The hardware bus needs a new token."}
+{"excuse":"Too many interrupts"}
+{"excuse":"Not enough interrupts"}
+{"excuse":"The data on your hard drive is out of balance."}
+{"excuse":"Digital Manipulator exceeding velocity parameters"}
+{"excuse":"appears to be a Slow/Narrow SCSI-0 Interface problem"}
+{"excuse":"microelectronic Riemannian curved-space fault in write-only file system"}
+{"excuse":"fractal radiation jamming the backbone"}
+{"excuse":"routing problems on the neural net"}
+{"excuse":"IRQ-problems with the Un-Interruptible-Power-Supply"}
+{"excuse":"CPU-angle has to be adjusted because of vibrations coming from the nearby road"}
+{"excuse":"emissions from GSM-phones"}
+{"excuse":"CD-ROM server needs recalibration"}
+{"excuse":"firewall needs cooling"}
+{"excuse":"asynchronous inode failure"}
+{"excuse":"transient bus protocol violation"}
+{"excuse":"incompatible bit-registration operators"}
+{"excuse":"your process is not ISO 9000 compliant"}
+{"excuse":"You need to upgrade your VESA local bus to a MasterCard local bus."}
+{"excuse":"The recent proliferation of Nuclear Testing"}
+{"excuse":"Elves on strike. (Why do they call EMAG Elf Magic)"}
+{"excuse":"Internet exceeded Luser level, please wait until a luser logs off before attempting to log back on."}
+{"excuse":"Your EMAIL is now being delivered by the USPS."}
+{"excuse":"Your computer hasn't been returning all the bits it gets from the Internet."}
+{"excuse":"You've been infected by the Telescoping Hubble virus."}
+{"excuse":"Scheduled global CPU outage"}
+{"excuse":"Your Pentium has a heating problem - try cooling it with ice cold water.(Do not turn off your computer, you do not want to cool down the Pentium Chip while he isn't working, do you?)"}
+{"excuse":"Your processor has processed too many instructions.  Turn it off immediately, do not type any commands!!"}
+{"excuse":"Your packets were eaten by the terminator"}
+{"excuse":"Your processor does not develop enough heat."}
+{"excuse":"We need a licensed electrician to replace the light bulbs in the computer room."}
+{"excuse":"The POP server is out of Coke"}
+{"excuse":"Fiber optics caused gas main leak"}
+{"excuse":"Server depressed, needs Prozac"}
+{"excuse":"quantum decoherence"}
+{"excuse":"those damn raccoons!"}
+{"excuse":"suboptimal routing experience"}
+{"excuse":"A plumber is needed, the network drain is clogged"}
+{"excuse":"50% of the manual is in .pdf readme files"}
+{"excuse":"the AA battery in the wallclock sends magnetic interference"}
+{"excuse":"the xy axis in the trackball is coordinated with the summer solstice"}
+{"excuse":"the butane lighter causes the pincushioning"}
+{"excuse":"old inkjet cartridges emanate barium-based fumes"}
+{"excuse":"manager in the cable duct"}
+{"excuse":"We'll fix that in the next (upgrade, update, patch release, service pack)."}
+{"excuse":"HTTPD Error 666 : BOFH was here"}
+{"excuse":"HTTPD Error 4004 : very old Intel cpu - insufficient processing power"}
+{"excuse":"The ATM board has run out of 10 pound notes.  We are having a whip round to refill it, care to contribute ?"}
+{"excuse":"Network failure -  call NBC"}
+{"excuse":"Having to manually track the satellite."}
+{"excuse":"Your/our computer(s) had suffered a memory leak, and we are waiting for them to be topped up."}
+{"excuse":"The rubber band broke"}
+{"excuse":"We're on Token Ring, and it looks like the token got loose."}
+{"excuse":"Stray Alpha Particles from memory packaging caused Hard Memory Error on Server."}
+{"excuse":"paradigm shift...without a clutch"}
+{"excuse":"PEBKAC (Problem Exists Between Keyboard And Chair)"}
+{"excuse":"The cables are not the same length."}
+{"excuse":"Second-system effect."}
+{"excuse":"Chewing gum on /dev/sd3c"}
+{"excuse":"Boredom in the Kernel."}
+{"excuse":"the daemons! the daemons! the terrible daemons!"}
+{"excuse":"I'd love to help you -- it's just that the Boss won't let me near the computer. "}
+{"excuse":"struck by the Good Times virus"}
+{"excuse":"YOU HAVE AN I/O ERROR -> Incompetent Operator error"}
+{"excuse":"Your parity check is overdrawn and you're out of cache."}
+{"excuse":"Communist revolutionaries taking over the server room and demanding all the computers in the building or they shoot the sysadmin. Poor misguided fools."}
+{"excuse":"Plasma conduit breach"}
+{"excuse":"Out of cards on drive D:"}
+{"excuse":"Sand fleas eating the Internet cables"}
+{"excuse":"parallel processors running perpendicular today"}
+{"excuse":"ATM cell has no roaming feature turned on, notebooks can't connect"}
+{"excuse":"Webmasters kidnapped by evil cult."}
+{"excuse":"Failure to adjust for daylight savings time."}
+{"excuse":"Virus transmitted from computer to sysadmins."}
+{"excuse":"Virus due to computers having unsafe sex."}
+{"excuse":"Incorrectly configured static routes on the corerouters."}
+{"excuse":"Forced to support NT servers; sysadmins quit."}
+{"excuse":"Suspicious pointer corrupted virtual machine"}
+{"excuse":"It's the InterNIC's fault."}
+{"excuse":"Root name servers corrupted."}
+{"excuse":"Budget cuts forced us to sell all the power cords for the servers."}
+{"excuse":"Someone hooked the twisted pair wires into the answering machine."}
+{"excuse":"Operators killed by year 2000 bug bite."}
+{"excuse":"We've picked COBOL as the language of choice."}
+{"excuse":"Operators killed when huge stack of backup tapes fell over."}
+{"excuse":"Robotic tape changer mistook operator's tie for a backup tape."}
+{"excuse":"Someone was smoking in the computer room and set off the halon systems."}
+{"excuse":"Your processor has taken a ride to Heaven's Gate on the UFO behind Hale-Bopp's comet."}
+{"excuse":"it's an ID-10-T error"}
+{"excuse":"Dyslexics retyping hosts file on servers"}
+{"excuse":"The Internet is being scanned for viruses."}
+{"excuse":"Your computer's union contract is set to expire at midnight."}
+{"excuse":"Bad user karma."}
+{"excuse":"/dev/clue was linked to /dev/null"}
+{"excuse":"Increased sunspot activity."}
+{"excuse":"We already sent around a notice about that."}
+{"excuse":"It's union rules. There's nothing we can do about it. Sorry."}
+{"excuse":"Interference from the Van Allen Belt."}
+{"excuse":"Jupiter is aligned with Mars."}
+{"excuse":"Redundant ACLs. "}
+{"excuse":"Mail server hit by UniSpammer."}
+{"excuse":"T-1's congested due to porn traffic to the news server."}
+{"excuse":"Data for intranet got routed through the extranet and landed on the internet."}
+{"excuse":"We are a 100% Microsoft Shop."}
+{"excuse":"We are Microsoft.  What you are experiencing is not a problem; it is an undocumented feature."}
+{"excuse":"Sales staff sold a product we don't offer."}
+{"excuse":"Secretary sent chain letter to all 5000 employees."}
+{"excuse":"Sysadmin didn't hear pager go off due to loud music from bar-room speakers."}
+{"excuse":"Sysadmin accidentally destroyed pager with a large hammer."}
+{"excuse":"Sysadmins unavailable because they are in a meeting talking about why they are unavailable so much."}
+{"excuse":"Bad cafeteria food landed all the sysadmins in the hospital."}
+{"excuse":"Route flapping at the NAP."}
+{"excuse":"Computers under water due to SYN flooding."}
+{"excuse":"The vulcan-death-grip ping has been applied."}
+{"excuse":"Electrical conduits in machine room are melting."}
+{"excuse":"Traffic jam on the Information Superhighway."}
+{"excuse":"Radial Telemetry Infiltration"}
+{"excuse":"Cow-tippers tipped a cow onto the server."}
+{"excuse":"tachyon emissions overloading the system"}
+{"excuse":"Maintenance window broken"}
+{"excuse":"We're out of slots on the server"}
+{"excuse":"Computer room being moved.  Our systems are down for the weekend."}
+{"excuse":"Sysadmins busy fighting SPAM."}
+{"excuse":"Repeated reboots of the system failed to solve problem"}
+{"excuse":"Feature was not beta tested"}
+{"excuse":"Domain controller not responding"}
+{"excuse":"Someone else stole your IP address, call the Internet detectives!"}
+{"excuse":"It's not RFC-822 compliant."}
+{"excuse":"operation failed because: there is no message for this error (#1014)"}
+{"excuse":"stop bit received"}
+{"excuse":"internet is needed to catch the etherbunny"}
+{"excuse":"network down, IP packets delivered via UPS"}
+{"excuse":"Firmware update in the coffee machine"}
+{"excuse":"Temporal anomaly"}
+{"excuse":"Mouse has out-of-cheese-error"}
+{"excuse":"Borg implants are failing"}
+{"excuse":"Borg nanites have infested the server"}
+{"excuse":"error: one bad user found in front of screen"}
+{"excuse":"Please state the nature of the technical emergency"}
+{"excuse":"Internet shut down due to maintenance"}
+{"excuse":"Daemon escaped from pentagram"}
+{"excuse":"crop circles in the corn shell"}
+{"excuse":"sticky bit has come loose"}
+{"excuse":"Hot Java has gone cold"}
+{"excuse":"Cache miss - please take better aim next time"}
+{"excuse":"Hash table has woodworm"}
+{"excuse":"Trojan horse ran out of hay"}
+{"excuse":"Zombie processes detected, machine is haunted."}
+{"excuse":"overflow error in /dev/null"}
+{"excuse":"Browser's cookie is corrupted -- someone's been nibbling on it."}
+{"excuse":"Mailer-daemon is busy burning your message in hell."}
+{"excuse":"According to Microsoft, it's by design"}
+{"excuse":"vi needs to be upgraded to vii"}
+{"excuse":"greenpeace free'd the mallocs"}
+{"excuse":"Terrorists crashed an airplane into the server room, have to remove /bin/laden. (rm -rf /bin/laden)"}
+{"excuse":"astropneumatic oscillations in the water-cooling"}
+{"excuse":"Somebody ran the operating system through a spelling checker."}
+{"excuse":"Rhythmic variations in the voltage reaching the power supply."}
+{"excuse":"Keyboard Actuator Failure.  Order and Replace."}
+{"excuse":"Packet held up at customs."}
+{"excuse":"Propagation delay."}
+{"excuse":"High line impedance."}
+{"excuse":"Someone set us up the bomb."}
+{"excuse":"Power surges on the Underground."}
+{"excuse":"Don't worry; it's been deprecated. The new one is worse."}
+{"excuse":"Excess condensation in cloud network"}
+{"excuse":"It is a layer 8 problem"}
+{"excuse":"The math co-processor had an overflow error that leaked out and shorted the RAM"}
+{"excuse":"Leap second overloaded RHEL6 servers"}
+{"excuse":"DNS server drank too much and had a hiccup"}

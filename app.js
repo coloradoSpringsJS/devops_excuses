@@ -1,4 +1,5 @@
 var express = require('express');
+var mongoose = require('./lib/mongoose');
 
 //requiring a directory will look
 //for index.js
