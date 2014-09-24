@@ -25,6 +25,7 @@ app.set('views', __dirname + '/views');
 //Changing to app.use
 //Here we "mount" a router object at the path
 app.use('/',routes.homeRoutes);
+app.use('/excuse',routes.excuseRoutes);
 
 //Start the server
 var server = app.listen(3001,function() {
