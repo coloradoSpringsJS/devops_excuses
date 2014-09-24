@@ -1,9 +1,9 @@
 var express = require('express');
-var homeRoutes = require('./routes/home');
+var routes = require('./routes');
 
 var app = express();
 
-app.use('/',homeRoutes);
+app.use('/',routes.home);
 
 //Start the server
 var server = app.listen(3001,function() {
