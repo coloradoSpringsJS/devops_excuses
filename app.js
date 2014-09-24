@@ -1,10 +1,10 @@
 var express = require('express');
+var homeRoutes = require('./routes/home.js');
+
 var app = express();
 
 //Registering route
-app.get('/',function(req,res) {
-    res.send('Hello World');
-});
+app.get('/',homeRoutes.index);
 
 //Start the server
 var server = app.listen(3001,function() {
