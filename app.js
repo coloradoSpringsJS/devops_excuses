@@ -1,5 +1,6 @@
 var path = require('path');
 var express = require('express');
+var bodyparser = require('body-parser');
 var swig = require('swig');
 
 var mongoose = require('./lib/mongoose');
@@ -11,6 +12,8 @@ var routes = require('./routes');
 var app = express();
 
 //Adding in static middleware
+app.use(bodyparser.json());
+app.use(bodyparser.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 //Adding template rendering
