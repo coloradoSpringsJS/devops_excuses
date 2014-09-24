@@ -10,10 +10,17 @@ var should = chai.should();
 var home_controller = require("../controllers/homeController");
 
 describe('Home Routes',function() {
-    describe('index route',function() {
-        var res = {
+    var res;
+
+    beforeEach(function(done) {
+        res = {
             send: sinon.spy()
         };
+        done();
+    });
+
+    describe('index route',function() {
+        
         it('should display Hello World',function(done){
             home_controller.getIndex({},res);
             expect(res.send).to.have.been.calledWith("Hello World");
