@@ -1,9 +1,9 @@
 var router = require('express').Router();
+var home_controller = require('../controllers/homeController');
 
-router.get('/',index);
+//Registering routes
+router.get('/',home_controller.getIndex);
 
-function index(req,res) {
-    res.send('Hello World');
-}
-
+//Exporting the router
 module.exports = router;
+

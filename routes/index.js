@@ -1,5 +1,6 @@
-var homeRoutes = require('./home');
-
+//Export all the routes!
 module.exports = {
-    home: homeRoutes
+    homeRoutes: require('./home')
 };
+
+
