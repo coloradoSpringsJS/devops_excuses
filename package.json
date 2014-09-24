@@ -1,0 +1,25 @@
+{
+  "name": "CSJS_Webapp",
+  "version": "1.0.0",
+  "description": "Colorado Springs JavaScript app",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha -R spec --ui bdd "
+  },
+  "keywords": [
+    "Appy",
+    "Goodness"
+  ],
+  "author": "CSJS",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3"
+  },
+  "dependencies": {
+    "express": "^4.9.0",
+    "mongoose": "^3.8.16",
+    "swig": "^1.4.2"
+  }
+}

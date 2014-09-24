@@ -95,6 +95,4 @@ devops_excuses
 * http://www.github.com/TheEwok/
 * IRC channel
 * the.ewok@gmail.com
-</script>
-</section>
 
