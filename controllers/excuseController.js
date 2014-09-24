@@ -1,16 +1,24 @@
 var excuse_model = require('../lib/excuse');
 
-function postExcuse(req,res) {
-    var user_excuse = req.body.excuse;
+function getExcuse(req,res) {
+    var id = req.params.excuse_id;
 
-    excuse_model.create(user_excuse,function(err,result) {
+    excuse_model.find(id,function(err,result) {
         if(err) {
-            return res.redirect('/?err=1');
+            return res.render("index.html",{excuse:"MELLON MELLON MELLON OUT OF CHEESE ERROR"});
         }
-
-        res.redirect('/?added=1');
+        res.render("index.html",{excuse:result.getExcuse()});
     });
 }
+
+function postExcuse(req,res) {
+    var user_excuse = req.body.excuse;
+    excuse_model.create(user_excuse,function(err,result) {
+        res.redirect('/excuse/'+result.getId());
+    });
+}
+
 module.exports = {
+    getExcuse: getExcuse,
     postExcuse: postExcuse
 };

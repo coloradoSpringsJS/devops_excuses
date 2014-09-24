@@ -1,6 +1,6 @@
 var path = require('path');
 var express = require('express');
-var bodyparser = require('body-parser');
+var bodyParser = require('body-parser');
 var swig = require('swig');
 
 var mongoose = require('./lib/mongoose');
@@ -10,17 +10,17 @@ var mongoose = require('./lib/mongoose');
 var routes = require('./routes');
 
 var app = express();
-
-//Adding in static middleware
-app.use(bodyparser.json());
-app.use(bodyparser.urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname, 'public')));
-
 //Adding template rendering
 app.engine('html', swig.renderFile);
 swig.setDefaults({ cache: false });
 app.set('view engine', 'html');
 app.set('views', __dirname + '/views');
+
+//Adding in static middleware
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.static(path.join(__dirname, 'public')));
+
 
 //Changing to app.use
 //Here we "mount" a router object at the path
